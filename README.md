@@ -17,7 +17,8 @@
     <img src="https://github.com/rddckdeo/SemiProject/assets/150643230/a91d1d2d-29c9-45df-8cec-11efb229b2ff" width="600">
     <img src="https://github.com/rddckdeo/SemiProject/assets/150643230/d2740b0b-032e-43a8-a828-6492080f35a9" width="600">
     <img src="https://github.com/rddckdeo/SemiProject/assets/150643230/e66b8b78-a1d1-42d4-b74c-d56226e695fe" width="600">
-</div>
+</div> <br/>
+
 ## 구현된 기능 소개
 
 ![image](https://github.com/rddckdeo/SemiProject/assets/150643230/075416b0-0d18-4ba7-930e-d3bd21d621e4)
